@@ -1,3 +1,4 @@
+// netlify/functions/ping.js
 const cors = () => ({
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Methods": "GET, OPTIONS",
