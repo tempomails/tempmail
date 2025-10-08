@@ -2,7 +2,6 @@
   publish = "."
   functions = "netlify/functions"
 
-# CORS for all functions
 [[headers]]
   for = "/.netlify/functions/*"
   [headers.values]
